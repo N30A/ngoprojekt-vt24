@@ -15,3 +15,6 @@ Detta projekt, genomfört av en grupp på fyra studenter inom delkursen "Systemu
 - Java Swing
 - MySQL
 - NetBeans med Ant
+
+### Ansvarsfriskrivning
+Denna kod är skapad för utbildningsändamål och vi uppmanar till att inte använda den för akademiskt fusk eller plagiat. Användning av denna kod i utbildningssammanhang bör ske enligt de regler och riktlinjer som gäller för respektive institution eller skola.
