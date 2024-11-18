@@ -1,4 +1,4 @@
-# Systemutvecklingsprojekt - VT24
+# NGO projekt - VT24
 
 Detta projekt, genomfört av en grupp på fyra studenter inom delkursen "Systemutvecklingsprojekt" i kursen ["Informatik med systemvetenskaplig inriktning, grundkurs"](https://api.oru.se/oruapi/v1/utbildningsinformation/utbildning/IK100G?typ=kurs&accept=html&revision=6.0&sprak=sv), är skrivet i Java, använder MySQL som databas och har ett GUI skapat med Java Swing.
 
